@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am an aspiring Data Scientist with strong hands-on experience in <br>Python, machine learning, and some part of Deep Learning.<br>I enjoy building real-world systems—from AI models and data pipelines <br>to secure backend applications and containerized deployments.<br><br>🚀 What I Do<br>Develop and train Machine Learning models(Supervised and<br>Unsupervised ML)<br>Develop and train Deep Learning models (CNNs, image classification, <br>RNNs, transformers).<br>Work with databases (MySQL) and write clean, optimized queries.<br><br>🤝 Let’s Connect<br>I’m open to internships, projects, collaborations, and learning <br>opportunities in Data Science, AI, and cloud technologies.<br>
+I am a driven and emerging Data Science & AI practitioner passionate about transforming complex data into meaningful insights and building intelligent, high-impact systems. My work centers around machine learning, deep learning, and applied data analysis, where I focus on designing models that are not only accurate but also reliable, interpretable, and ready for real-world deployment. I enjoy exploring data in depth, uncovering patterns, optimizing models, and continuously improving my understanding of modern AI workflows..<br><br>🚀 What I Do
+Build and train Machine Learning models for classification, regression, and clustering
+Develop Deep Learning solutions using CNNs for computer vision tasks
+Perform exploratory data analysis (EDA) to uncover patterns and insights
+Work with large datasets: cleaning, preprocessing, feature engineering
+Implement model evaluation, hyperparameter tuning, and performance optimization
+Visualize insights using Matplotlib, Seaborn
+
+🤝 Let’s Connect<br>I’m open to internships, projects, collaborations, and learning <br>opportunities in Data Science, AI, and cloud technologies.<br>
 
 
 ## 🌐 Socials:
