@@ -1,10 +1,10 @@
 # 💫 About Me:
-I am a driven and emerging Data Science & AI practitioner passionate about transforming complex data into meaningful insights and building intelligent, high-impact systems. My work centers around machine learning, deep learning, and applied data analysis, where I focus on designing models that are not only accurate but also reliable, interpretable, and ready for real-world deployment. I enjoy exploring data in depth, uncovering patterns, optimizing models, and continuously improving my understanding of modern AI workflows..<br><br>🚀 What I Do
-Build and train Machine Learning models for classification, regression, and clustering
-Develop Deep Learning solutions using CNNs for computer vision tasks
-Perform exploratory data analysis (EDA) to uncover patterns and insights
-Work with large datasets: cleaning, preprocessing, feature engineering
-Implement model evaluation, hyperparameter tuning, and performance optimization
+I am a driven and emerging Data Science & AI practitioner passionate about transforming complex data into meaningful insights and building intelligent, high-impact systems. My work centers around machine learning, deep learning, and applied data analysis, where I focus on designing models that are not only accurate but also reliable, interpretable, and ready for real-world deployment. I enjoy exploring data in depth, uncovering patterns, optimizing models, and continuously improving my understanding of modern AI workflows..<br><br>🚀 What I Do<br>
+Build and train Machine Learning models for classification, regression, and clustering<br>
+Develop Deep Learning solutions using CNNs for computer vision tasks<br>
+Perform exploratory data analysis (EDA) to uncover patterns and insights<br>
+Work with large datasets: cleaning, preprocessing, feature engineering<br>
+Implement model evaluation, hyperparameter tuning, and performance optimization<br>
 Visualize insights using Matplotlib, Seaborn
 
 🤝 Let’s Connect<br>I’m open to internships, projects, collaborations, and learning <br>opportunities in Data Science, AI, and cloud technologies.<br>
